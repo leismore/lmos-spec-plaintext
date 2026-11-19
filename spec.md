@@ -45,6 +45,10 @@ Unicode Separators:
 * Unicode Standard Annex #44 - General Category Values <https://www.unicode.org/reports/tr44/#General_Category_Values>
 * Unicode 18.0.0 - 5.8 Newline Guidelines <https://www.unicode.org/versions/Unicode18.0.0/core-spec/chapter-5/#G10213>
 
+## Copyright
+
+[Leismore Plain-Text Specification](https://lmos.leismore.org/spec/plaintext) © 2026 by [Kyle Chinn / 秦凯](https://www.kylechinn.dev) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+
 
 
 
@@ -53,5 +57,4 @@ Unicode Separators:
 - Kyle Chinn / 秦凯
 - Founder of Leismore
 - [leismore.co](https://www.leismore.co)
-- 19 November 2026
-
+- 20 November 2026
