@@ -7,7 +7,7 @@ __PUBLIC__
 
 ## Copyright
 
-[Leismore Plain-Text Specification](https://lmos.leismore.org/spec/plaintext) © 2026 by [Leismore](https://www.leismore.org) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
+[Leismore™ Plain-Text Specification](https://lmos.leismore.org/spec/plaintext) © 2026 by [Leismore™](https://www.leismore.org) is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0).
 
 ## Authors
 
