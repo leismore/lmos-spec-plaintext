@@ -14,7 +14,7 @@ __PUBLIC__
 * Kyle Chinn / 秦凯 since 20 November 2026
   - [kylechinn.dev](https://www.kylechinn.dev)
 
-*Last updated on 20 November 2026 by [Kyle Chinn / 秦凯](https://www.kylechinn.dev).*
+*Last updated on 23 November 2026 by [Kyle Chinn / 秦凯](https://www.kylechinn.dev).*
 
 ------------------------------------------------------------------------------
 
@@ -45,7 +45,6 @@ Unicode Separators:
 
 * Line      Separator : U+2028
 * Paragraph Separator : U+2029
-* Next Line           : U+0085
 
 ## Other End-Of-Line Characters
 
